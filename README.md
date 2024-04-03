@@ -1,1 +1,1 @@
-# -Class-Organizing-Platform
+# Class-Organizing-Platform
